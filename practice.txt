@@ -1,0 +1,2 @@
+GitHub is a platform that allows us to create, store, manage, and share the code. 
+GitHub is a version control software.
